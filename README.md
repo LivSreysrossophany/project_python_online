@@ -30,4 +30,4 @@ GitHub: https://github.com/LivSreysrossophany
 
                         ***Purpose***
 
-This project was created for learning Python programming and practicing stock management operations.
+This project was created for learning Python programming and practicing stock management operations."# python_project_online" 
