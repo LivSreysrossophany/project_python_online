@@ -72,4 +72,4 @@ class Product:
         print(f"Quantity: {self.get_quantity}")
         print(f"Supplier: {self.get_supplier}")
         print(f"Description: {self.get_description}")
-        print(Fore.CYAN+"---------------------------")
+        print("---------------------------")

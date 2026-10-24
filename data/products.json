@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Keyboard",
+        "price": 25.5,
+        "category": "Electronics",
+        "quantity": 50,
+        "supplier": "ABC Supplier",
+        "description": "USB keyboard"
+    },
+    {
+        "id": 2,
+        "name": "Mouse",
+        "price": 12.0,
+        "category": "Electronics",
+        "quantity": 30,
+        "supplier": "ABC Supplier",
+        "description": "Wireless mouse"
+    },
+    {
+        "id": 68,
+        "name": "laptop",
+        "price": 2999.0,
+        "category": "Electronics",
+        "quantity": 82,
+        "supplier": "USA",
+        "description": "Good"
+    }
+]

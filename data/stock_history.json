@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "type": "STOCK_IN",
+        "quantity": 20,
+        "date": "2026-10-22",
+        "note": "New stock received"
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "type": "SALE",
+        "quantity": 5,
+        "date": "2026-10-22",
+        "note": "Product sold"
+    }
+]
